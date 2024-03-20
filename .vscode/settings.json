@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MyFirstSqlConnection",
+            "database": "iti",
+            "username": "root",
+            "password": "0162105511Bgf"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "connection",
+            "database": "iti",
+            "username": "root",
+            "askForPassword": true
+        }
+    ]
+}
